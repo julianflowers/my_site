@@ -6,10 +6,19 @@
     <description>Recent content in Regression on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/regression/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Next post</title>
+      <link>/2018/01/05/next-post/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/05/next-post/</guid>
+      <description>This is a new post  </description>
+    </item>
     
     <item>
       <title>Hello R Markdown</title>

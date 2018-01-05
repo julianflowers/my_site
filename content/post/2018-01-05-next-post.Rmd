@@ -1,0 +1,12 @@
+---
+title: Next post
+author: Julian Flowers
+date: '2018-01-05'
+slug: next-post
+categories:
+  - R
+tags:
+  - regression
+---
+
+## This is a new post

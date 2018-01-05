@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Next post</title>
+      <link>/2018/01/05/next-post/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/05/next-post/</guid>
+      <description>This is a new post  </description>
+    </item>
+    
+    <item>
       <title>new post</title>
       <link>/2018/01/05/new-post/</link>
       <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
