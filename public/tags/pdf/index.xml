@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pdf on A Hugo website</title>
+    <link>/tags/pdf/</link>
+    <description>Recent content in Pdf on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/pdf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting tables from pdf documents</title>
+      <link>/2018/01/09/getting-tables-from-pdf-documents/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/09/getting-tables-from-pdf-documents/</guid>
+      <description> Introduction An issue that crops up a lot is reusing tables embedded in publications - usually pdf documents. As a recent example, Masters et al recently published a systematic review of return on investment of public health interventions which contained a very useful summary table.
+References </description>
+    </item>
+    
+  </channel>
+</rss>
